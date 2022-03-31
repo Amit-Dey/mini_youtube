@@ -1,4 +1,4 @@
-const key =  "AIzaSyCOceMdcjUlpdBdGWqNSJrCtPsA-kSzpC0ad";
+const key =  "AIzaSyCOceMdcjUlpdBdGWqNSJrCtPsA-kSzpC0";
 let count=1;
 const maxr='10';
 const exta = '&type=video&part=snippet&maxResults='+maxr;
